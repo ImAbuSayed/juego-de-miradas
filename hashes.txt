@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Juego de miradas
+
+This log tracks the cryptographic history and versioning for the song **Juego de miradas** (juego-de-miradas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:18:05.199857 | `v1` | `148b7b3ba8088b9e6840121a847267a89cc826139be670cbeb1d47bc212f601e` | `09e772233a581cbb73d8604b9443d4cff70df2731067d4c73d34a4b2bb629e8b` | `2026-06-16_juego-de-miradas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
